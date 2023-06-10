@@ -1,3 +1,5 @@
+A website that is a startup accelerator of the projects [XCloudPlatform](https:///xcloudplatform.github.io/) [GithubOrg](https://github.com/xcloudplatform)
+
 xcloudplatform is cloud platform for modern user-corporation
 
 It provisions GitHub Org/Google Cloud/AWS on behalf of user-corporation
